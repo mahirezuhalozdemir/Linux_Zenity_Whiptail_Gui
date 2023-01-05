@@ -1,4 +1,4 @@
-                                                                                                                                                 #!bin/bash
+#!bin/bash
 user_name="admin"
 password="123"
 file="phonenumbers.txt"
